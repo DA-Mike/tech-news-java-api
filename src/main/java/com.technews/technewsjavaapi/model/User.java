@@ -1,5 +1,4 @@
 package com.technews.technewsjavaapi.model;
-import com.technews.technewsjavaapi.model.Post;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;
 
